@@ -102,7 +102,7 @@ main {
     max-width: 150px;
 }
 
-.services {
+.servicesOffered {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ main {
     color: #ffffff;
 }
 
-.services img {
+.servicesOffered img {
     max-height: 200px;
 }
 
-.services h2 {
+.servicesOffered h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
